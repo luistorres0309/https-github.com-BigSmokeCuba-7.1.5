@@ -4,7 +4,7 @@
 
     "description": "A simple moodle uploader",
 
-    "repository": "https://github.com/ravenclawldz/moodle-uploader",
+    "repository": "https://github.com/BigSmokeCuba/7.1.5",
 
     "keywords": [
 
@@ -21,17 +21,17 @@
         "USERID": {
 
             "description": "USERID"
-          },
+           } 
+         
 
-    "buildpacks": [
+    
 
-        {
+        
 
-            "url": "heroku/python"
 
-        }
+        
 
-    ]
+    
 
 }
 
