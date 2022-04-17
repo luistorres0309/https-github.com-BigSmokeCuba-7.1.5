@@ -2,7 +2,7 @@
   "name": "TGUploaderV7.1",
   "description": "Bot de telegram para descargar y subir contenido gratis desde internet a nubes cubanas",
   "env": {
-     "tg_admin_user": {
+     "USERID": {
       "description": "El Usuario DE Telegram Q Va A ADministrar El Bot",
       "value":"obisoftdev"
     }
