@@ -4,21 +4,17 @@
 
   "description": "Bot de telegram para descargar y subir contenido gratis desde internet a nubes cubanas",
 
-  "env": {
 
-     "USERID": {
+     
 
-      "description": "El Usurid de la cuenta ",
 
-      "value":"13337"
 
-    },
 
-    "bot_token": {
 
-      "description": "El token del bot",
 
-      "value":""
+  
+
+
 
     }
 
