@@ -1,0 +1,38 @@
+{
+
+    "name": "Moodle Uploader",
+
+    "description": "A simple moodle uploader",
+
+    "repository": "https://github.com/ravenclawldz/moodle-uploader",
+
+    "keywords": [
+
+        "Moodle",
+
+        "Uploader",
+
+        "telegram bot"
+
+    ],
+
+    "env": {
+
+        "USERID": {
+
+            "description": "USERID"
+          },
+
+    "buildpacks": [
+
+        {
+
+            "url": "heroku/python"
+
+        }
+
+    ]
+
+}
+
+© 2022 GitHub, Inc.
